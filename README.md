@@ -5,3 +5,4 @@
 
 
 #ссылка на asciinema: https://asciinema.org/a/2CPLxIAxfFLhPdtCO13kZ6cji
+#ссылка на asciinema: https://asciinema.org/a/yNnI6M6fv9UUNrWqs8IrJp05l
