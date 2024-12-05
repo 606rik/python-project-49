@@ -3,3 +3,5 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/606rik/python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/606rik/python-project-49/actions)
 
+
+#ссылка на asciinema: https://asciinema.org/a/2CPLxIAxfFLhPdtCO13kZ6cji
