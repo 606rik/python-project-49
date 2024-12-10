@@ -7,4 +7,5 @@
 #ссылка на asciinema: https://asciinema.org/a/2CPLxIAxfFLhPdtCO13kZ6cji
 #ссылка на asciinema: https://asciinema.org/a/yNnI6M6fv9UUNrWqs8IrJp05l
 #ссылка на asciinema: https://asciinema.org/a/FLwlJEZ7QhTcmhdQBsaIF7UXF
-#ссылка на asciinema:https://asciinema.org/a/jbzojpSx2Db4ituzJMdWb0BjH
+#ссылка на asciinema: https://asciinema.org/a/jbzojpSx2Db4ituzJMdWb0BjH
+#ссылка на asciinema: https://asciinema.org/a/YDYO5Ani6GFjwymVWLPBisg5X
