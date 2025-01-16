@@ -11,7 +11,8 @@ def main():
     print("Welcome to the Brain Games!")
     name = input("May I have your name? ")
     print(f"Hello, {name}!")
-    print('Answer "yes" if the number is even, otherwise answer "no".')
+    print('Answer "yes" if the number is even, '
+          'otherwise answer "no".')
 
     correct_answers = 0
     rounds_to_win = 3
@@ -27,7 +28,8 @@ def main():
             print("Correct!")
             correct_answers += 1
         else:
-            print(f"'{user_answer}' is wrong answer ;(. Correct answer was '{correct_answer}'.")
+            print(f"'{user_answer}' is wrong answer ;(. "
+                  f"Correct answer was '{correct_answer}'.")
             print(f"Let's try again, {name}!")
             return
 

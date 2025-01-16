@@ -2,6 +2,7 @@ import prompt
 
 MAX_ROUNDS = 3
 
+
 def run_game(description, generate_round):
     """Управляет процессом игры."""
     print("Welcome to the Brain Games!")
@@ -15,7 +16,10 @@ def run_game(description, generate_round):
         answer = prompt.string("Your answer: ")
 
         if answer != correct_answer:
-            print(f"'{answer}' is wrong answer ;(. Correct answer was '{correct_answer}'.")
+            print(
+                f"'{answer}' is wrong answer ;(. "
+                f"Correct answer was '{correct_answer}'."
+            )
             print(f"Let's try again, {name}!")
             return
 
