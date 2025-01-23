@@ -3,4 +3,5 @@ from brain_games.games import calc
 
 
 def main():
-    run_game(calc.DESCRIPTION, calc.get_question_and_answer)
+    run_game(calc)  # Передаем весь модуль вместо отдельных параметров
+
