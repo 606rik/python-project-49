@@ -1,15 +1,6 @@
-import random
+from brain_games.engine import run_game
+from brain_games.games import even
 
-DESCRIPTION = 'Answer "yes" if the number is even, otherwise answer "no".'
-
-def is_even(number):
-    """Проверяет, является ли число четным."""
-    return number % 2 == 0
-
-
-def get_question_and_answer():
-    """Генерирует вопрос и правильный ответ для игры."""
-    number = random.randint(1, 100)
-    question = str(number)
-    correct_answer = "yes" if is_even(number) else "no"
-    return question, correct_answer
+def main():
+    """Запуск игры."""
+    run_game(even)  # Передаем модуль игры целиком

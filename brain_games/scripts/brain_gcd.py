@@ -1,19 +1,8 @@
-import random
-
-DESCRIPTION = "Find the greatest common divisor of given numbers."
-
-
-def gcd(a, b):
-    """Вычисляет НОД двух чисел."""
-    while b:
-        a, b = b, a % b
-    return a
+from brain_games.engine import run_game
+from brain_games.games import gcd
 
 
-def get_question_and_answer():
-    """Генерирует вопрос и правильный ответ для игры."""
-    num1 = random.randint(1, 100)
-    num2 = random.randint(1, 100)
-    question = f"{num1} {num2}"
-    correct_answer = str(gcd(num1, num2))
-    return question, correct_answer
+def main():
+    """Запуск игры."""
+    run_game(gcd)
+
