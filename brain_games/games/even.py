@@ -2,8 +2,8 @@ import random
 
 DESCRIPTION = 'Answer "yes" if the number is even, otherwise answer "no".'
 
+
 def is_even(number):
-    
     """Проверяет, является ли число четным."""
     return number % 2 == 0
 
