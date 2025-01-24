@@ -11,7 +11,7 @@ def run_game(game):
     print(game.DESCRIPTION)  # Используем описание из переданного модуля
 
     for _ in range(MAX_ROUNDS):
-        question, correct_answer = game.get_question_and_answer()  # Генерируем вопрос и ответ
+        question, correct_answer = game.get_question_and_answer()  
         print(f"Question: {question}")
         answer = prompt.string("Your answer: ")
 
