@@ -2,6 +2,7 @@ import prompt
 
 MAX_ROUNDS = 3
 
+
 def run_game(game):
     """Управляет процессом игры."""
     print("Welcome to the Brain Games!")
