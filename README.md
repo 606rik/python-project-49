@@ -4,8 +4,14 @@
 [![Actions Status](https://github.com/606rik/python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/606rik/python-project-49/actions)
 
 
-#ссылка на asciinema: https://asciinema.org/a/2CPLxIAxfFLhPdtCO13kZ6cji
-#ссылка на asciinema: https://asciinema.org/a/yNnI6M6fv9UUNrWqs8IrJp05l
-#ссылка на asciinema: https://asciinema.org/a/FLwlJEZ7QhTcmhdQBsaIF7UXF
-#ссылка на asciinema: https://asciinema.org/a/jbzojpSx2Db4ituzJMdWb0BjH
-#ссылка на asciinema: https://asciinema.org/a/YDYO5Ani6GFjwymVWLPBisg5X
+### Демонстрация работы:
+
+[![asciinema](https://asciinema.org/a/2CPLxIAxfFLhPdtCO13kZ6cji.svg)](https://asciinema.org/a/2CPLxIAxfFLhPdtCO13kZ6cji)
+
+[![asciinema](https://asciinema.org/a/yNnI6M6fv9UUNrWqs8IrJp05l.svg)](https://asciinema.org/a/yNnI6M6fv9UUNrWqs8IrJp05l)
+
+[![asciinema](https://asciinema.org/a/FLwlJEZ7QhTcmhdQBsaIF7UXF.svg)](https://asciinema.org/a/FLwlJEZ7QhTcmhdQBsaIF7UXF)
+
+[![asciinema](https://asciinema.org/a/jbzojpSx2Db4ituzJMdWb0BjH.svg)](https://asciinema.org/a/jbzojpSx2Db4ituzJMdWb0BjH)
+
+[![asciinema](https://asciinema.org/a/YDYO5Ani6GFjwymVWLPBisg5X.svg)](https://asciinema.org/a/YDYO5Ani6GFjwymVWLPBisg5X)

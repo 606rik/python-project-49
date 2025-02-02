@@ -2,7 +2,6 @@ import prompt
 
 MAX_ROUNDS = 3
 
-
 def run_game(game):
     """Управляет процессом игры."""
     print("Welcome to the Brain Games!")
@@ -21,8 +20,8 @@ def run_game(game):
                 f"Correct answer was '{correct_answer}'."
             )
             print(f"Let's try again, {name}!")
-            return
+            break  # Выход из цикла при неправильном ответе
+    else:
+        # Если цикл завершился без break, значит все ответы верные
+        print(f"Congratulations, {name}!")
 
-        print("Correct!")
-
-    print(f"Congratulations, {name}!")
