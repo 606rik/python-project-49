@@ -1,7 +1,23 @@
-    [![Maintainability](https://api.codeclimate.com/v1/badges/74f38d9995ff1738325e/maintainability)](https://codeclimate.com/github/606rik/python-project-49/maintainability)
+[![Maintainability](https://api.codeclimate.com/v1/badges/74f38d9995ff1738325e/maintainability)](https://codeclimate.com/github/606rik/python-project-49/maintainability)
 
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/606rik/python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/606rik/python-project-49/actions)
+
+### Описание проекта:
+
+Этот проект представляет собой набор консольных игр. Каждая игра предлагает пользователю решить определенную задачу, связанную с математикой или логикой.
+
+Игры включают:
+Определение четности числа
+Калькулятор
+Поиск наибольшего общего делителя
+Арифметическая прогрессия
+Простые числа
+
+Клонируйте репозиторий: git clone https://github.com/606rik/python-project-49.git
+Перейдите в директорию проекта: cd python-project-49
+Установите зависимости: make install
+Запустите любую игру: brain-even
 
 
 ### Демонстрация работы:
